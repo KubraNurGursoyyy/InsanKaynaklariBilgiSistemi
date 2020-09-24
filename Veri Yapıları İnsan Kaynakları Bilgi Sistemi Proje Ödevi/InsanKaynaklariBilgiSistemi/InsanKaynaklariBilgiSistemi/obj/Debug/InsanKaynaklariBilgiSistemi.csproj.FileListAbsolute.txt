@@ -1,0 +1,30 @@
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe.config
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.pdb
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.Properties.Resources.resources
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.pdb
+C:\Users\eser1\source\repos\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.FrmAnaSayfa.resources
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe.config
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.pdb
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.FrmAnaSayfa.resources
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\hp-pc\Desktop\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.pdb
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe.config
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.pdb
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csprojAssemblyReference.cache
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.FrmAnaSayfa.resources
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.Properties.Resources.resources
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csproj.GenerateResource.cache
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.exe
+D:\Bilgisayar Mühendisliği\2-2\Veri Yapıları\Proje Ödevi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.pdb
